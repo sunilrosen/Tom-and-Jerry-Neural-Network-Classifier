@@ -7,7 +7,6 @@ This project classifies images into **Tom**, **Jerry**, **Both**, or **Neither**
 
 - **Classes**: Jerry (0), Tom (1), None (2), Both (3)
 - **Split**: 80% training, 20% validation.
-- **Image Size**: 160x160 pixels
 
 ## Model
 
